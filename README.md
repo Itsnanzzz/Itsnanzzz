@@ -1,4 +1,4 @@
-# Hi there, I'm Anna Litcz! 👋
+# Hi there, I'm Itsnanzzz! 👋
 
 ## 🚀 About Me
 I'm a passionate software developer with a keen interest in web development, open-source contributions, and continuous learning. I thrive on building efficient and scalable solutions to challenging problems.
