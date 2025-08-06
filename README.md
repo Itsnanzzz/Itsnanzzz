@@ -27,10 +27,10 @@ I'm a student who loves building impactful solutions and exploring new technolog
 
 ## 📫 Let's Connect!
 
-- [Twitter](https://twitter.com/)  
-- [Facebook](https://facebook.com/)  
-- [TikTok](https://tiktok.com/)  
-- [Instagram](https://instagram.com/)  
+- [Twitter](https://x.com/itsnanzzz_acuu)  
+- [Facebook](https://www.facebook.com/Itsnanzzz)
+- [TikTok](https://www.tiktok.com/@itsnanzzz_acuu)  
+- [Instagram](https://www.instagram.com/itsnanzzz1/)  
 
 ---
 
