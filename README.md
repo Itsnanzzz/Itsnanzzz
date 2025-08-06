@@ -1,35 +1,43 @@
-# Hi there, I'm Itsnanzzz! 👋
+# 👋 Hi there, I'm Itsnanzzz!
+
+Welcome to my GitHub profile! Here, you'll find a collection of projects, experiments, and contributions that reflect my passion for technology and innovation.
+
+---
 
 ## 🚀 About Me
-I'm a passionate software developer with a keen interest in web development, open-source contributions, and continuous learning. I thrive on building efficient and scalable solutions to challenging problems.
 
-- 🌱 I’m currently learning **React Native** and **GraphQL**
-- 👯 I’m looking to collaborate on **open-source projects**
-- 💬 Ask me about **JavaScript, Python, and Web Development**
-- 📫 How to reach me: [annalitcz@gmail.com](mailto:annalitcz@gmail.com)
-- ⚡ Fun fact: I love hiking and exploring new places
+I'm a student who loves building impactful solutions and exploring new technologies. My GitHub is a space where I share my work, collaborate on open-source, and connect with like-minded individuals.
 
-## 🛠️ Languages and Tools
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
-![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visual-studio-code)
+---
+
+## 🛠️ Skills & Tools
+
+- **Programming Languages:** JavaScript (JS), Python
+- **Frameworks & Libraries:** Next.js, Express.js, Flask, TailwindCSS
+- **Other Interests:** Building Telegram bots, creating functional websites based on useful tools
+
+---
+
+## 🌟 Featured Projects
+
+- **Telegram Bot** — Automates tasks and enhances productivity through Telegram.
+- **Functional Website Based on Tools** — A collection of web tools designed to solve everyday problems.
+
+---
+
+## 📫 Let's Connect!
+
+- [Twitter](https://twitter.com/)  
+- [Facebook](https://facebook.com/)  
+- [TikTok](https://tiktok.com/)  
+- [Instagram](https://instagram.com/)  
+
+---
 
 ## 📈 GitHub Stats
-![Anna's GitHub stats](https://github-readme-stats.vercel.app/api?username=annalitcz&show_icons=true&theme=radical)
 
-## 📫 Connect with me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-black?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/annalitcz)
-[![Twitter](https://img.shields.io/badge/-Twitter-black?style=flat-square&logo=twitter)](https://twitter.com/annalitcz)
+![Itsnanzzz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Itsnanzzz&show_icons=true&hide_title=true&count_private=true&theme=github_dark)
 
-## 📝 Recent Blog Posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+---
 
-<!--
-**annalitcz/annalitcz** is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+Thanks for stopping by! Feel free to explore my repositories, star your favorites, or reach out for collaboration.
